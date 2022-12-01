@@ -1,7 +1,6 @@
 # aop-part4-chapter06
 
-## ⚠️ 주의사항
-`gradle.properties` 파일에 `카카오 REST API 키` 와 `공공 데이터 포털 일반 인증키(Encoding)` 를 추가해야합니다.
+# 이 챕터를 통해 배운 것
 
 ## 목차
 0. 인트로, 프로젝트 셋업
